@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MrTime-Create/BuildingBoats/616f777c3e9e5774febf31778c37f495c8c1fe02/main", true))()
